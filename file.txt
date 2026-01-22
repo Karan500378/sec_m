@@ -1,1 +1,2 @@
 hi hi ha ha hu hu.
+This is a change for a newly branch.
